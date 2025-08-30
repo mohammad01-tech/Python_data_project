@@ -111,7 +111,7 @@ plt.show()
 
 ### Results
 
-![ Visualization of Top Skills for Data Nerds](Python_Project\Images\Trending_skills.png)
+![ Visualization of Top Skills for Data Nerds](Python_Project/Images/Trending_skills.png)
 
 Bar graph visualizing the trending top skills for data analysts in the US in 2023.
 
@@ -137,7 +137,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 ### Results
-![Visualization of salary distribution](Python_Project\Images\Salary_Distributions_of_Data_Jobs_in_the_US.png)
+![Visualization of salary distribution](Python_Project/Images/Salary_Distributions_of_Data_Jobs_in_the_US.png)
 
 Box plot visualizing the salary distributions for the top 6 data job titles.
 
@@ -169,7 +169,7 @@ plt.show()
 ### Results 
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![](Python_Project\Images\Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![](Python_Project/Images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
 
 skills and most in-demand skills for data analysts in the US.
 
@@ -226,7 +226,7 @@ scatter = sns.scatterplot(
 plt.show()
 ```
 ### Results 
-![](Python_Project\Images\Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
+![](Python_Project/Images/Most_Optimal_Skills_for_Data_Analysts_in_the_US_with_Coloring_by_Technology.png)
 
 A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology.
 
