@@ -62,7 +62,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 To find the most demanded skills for the top 3 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I'm targeting.
 
 View my notebook with detailed steps here :
-[2_skills_Demand.ipynb](Python_Project\2_skills_Demand.ipynb)
+[2_skills_Demand.ipynb](Python_Project/2_skills_Demand.ipynb)
 
 ### Visualize Data
 
@@ -92,7 +92,7 @@ plt.show()
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
 View my notebook with detailed steps here:
-[3_Skills_Trend.ipynb](Python_Project\3_Skills_Trend.ipynb)
+[3_Skills_Trend.ipynb](Python_Project/3_Skills_Trend.ipynb)
 
 ### Visualize Data
 
@@ -125,7 +125,7 @@ Bar graph visualizing the trending top skills for data analysts in the US in 202
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
 
 View my notebook with detailed steps here:
-[4_Salary_Analysis.ipynb](Python_Project\4_Salary_Analysis.ipynb)
+[4_Salary_Analysis.ipynb](Python_Project/4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 
@@ -185,7 +185,7 @@ skills and most in-demand skills for data analysts in the US.
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
 
 View my notebook with detailed steps here:
-[5_Optimal_Skills.ipynb](Python_Project\5_Optimal_Skills.ipynb)
+[5_Optimal_Skills.ipynb](Python_Project/5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 ```python
